@@ -14,7 +14,6 @@ This is a solution to the [Stats preview card component challenge on Frontend Me
   - [Useful resources](#useful-resources)
 - [Author](#author)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
 
 ## Overview
 
@@ -47,7 +46,6 @@ Users should be able to:
 The biggest thing for me was proper naming of class names and not necessarily giving every single line of html a class.
 Working one section at a time, if I work too many at once, I will get completely overwhelmed
 
-**Note: Delete this note and the content within this section and replace with your own learnings.**
 
 ### Continued development
 
